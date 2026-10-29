@@ -6,7 +6,7 @@ Solutions to Striver's A2Z DSA sheet in Java. Every file has the problem link, a
 
 | Topic  | Solved |
 |--------|--------|
-| Patterns| 7      |
+| Patterns|  9   |
 
 ## Arrays
 
